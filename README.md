@@ -23,3 +23,8 @@ I enjoy working on data-driven projects and developing applications that solve r
 - Git & GitHub
 - MongoDB
 - HTML, CSS, JavaScript
+
+
+## Portfolio
+
+[View My Portfolio](https://portofilo22.netlify.app/)
